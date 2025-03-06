@@ -1,0 +1,9 @@
+package com.kh.mvc.study;
+
+public class StudyRun {
+	
+	public StudyRun() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

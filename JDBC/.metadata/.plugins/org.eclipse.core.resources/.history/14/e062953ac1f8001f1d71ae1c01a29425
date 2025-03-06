@@ -1,0 +1,11 @@
+package com.kh.mvc;
+
+import java.util.Collection;
+import java.util.Map;
+import java.util.Set;
+
+public class MyProperties  {
+	
+
+	
+}

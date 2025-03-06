@@ -1,0 +1,8 @@
+package com.kh.mvc.model.service;
+
+/**
+ * Service :  
+ */
+public class MemberService {
+
+}

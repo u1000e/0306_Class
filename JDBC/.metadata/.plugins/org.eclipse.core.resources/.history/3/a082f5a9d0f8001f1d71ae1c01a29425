@@ -1,0 +1,10 @@
+package com.kh.mvc.model.dto;
+
+public class UserDTO {
+	
+	private int userNo;
+	private String userId;
+	private String userPw;
+	private String userName;
+
+}

@@ -1,0 +1,9 @@
+package com.kh.mvc.study;
+
+public class C extends B {
+	
+	public void print() {
+		
+	}
+
+}

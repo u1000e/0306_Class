@@ -1,0 +1,14 @@
+package com.kh.mvc.view;
+
+import com.kh.mvc.model.Data;
+
+public class ViewData {
+	
+	private Data data = new Data data();
+	
+	
+	private ViewData() {
+		
+	}
+
+}

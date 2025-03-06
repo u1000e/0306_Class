@@ -1,0 +1,18 @@
+package com.kh.mvc;
+
+public class Exam {
+	
+	private void printMyName() {
+		System.out.println("내 이름은 이승철");
+	}
+	private void printMyName2() {
+		System.out.println("내 이름은 이승철");
+	}
+	private void printMyName3() {
+		System.out.println("내 이름은 이승철");
+	}
+	private void printMyName4() {
+		System.out.println("내 이름은 이승철");
+	}
+
+}

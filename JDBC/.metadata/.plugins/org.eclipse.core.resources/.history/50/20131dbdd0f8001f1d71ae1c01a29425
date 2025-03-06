@@ -1,0 +1,13 @@
+package com.kh.mvc.model.dto;
+
+import java.sql.Date;
+
+public class UserDTO {
+	
+	private int userNo;
+	private String userId;
+	private String userPw;
+	private String userName;
+	private Date enrollDate;
+
+}

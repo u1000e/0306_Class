@@ -1,0 +1,12 @@
+package com.kh.mvc.study;
+
+public class A extends B{
+	
+	private int a;
+	
+	{
+		System.out.println("안뇽 나는 초기화 블록")
+	}
+	
+
+}
