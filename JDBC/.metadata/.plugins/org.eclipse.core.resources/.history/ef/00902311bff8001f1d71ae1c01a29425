@@ -1,9 +1,0 @@
-package com.kh.mvc;
-
-public class Exam {
-	
-	private void printMyName() {
-		
-	}
-
-}

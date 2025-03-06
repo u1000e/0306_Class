@@ -1,9 +1,0 @@
-package com.kh.mvc.model;
-
-public class Data {
-	
-	
-	private String name;
-	private int age;
-
-}

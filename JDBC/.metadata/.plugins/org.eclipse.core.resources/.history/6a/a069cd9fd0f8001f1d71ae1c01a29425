@@ -1,7 +1,0 @@
-package com.kh.mvc.model.dto;
-
-public class UserDTO {
-	
-	private int 
-
-}

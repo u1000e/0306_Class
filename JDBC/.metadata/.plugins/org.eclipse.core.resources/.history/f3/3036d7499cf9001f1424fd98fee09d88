@@ -1,8 +1,0 @@
-package com.kh.mvc.model.service;
-
-/**
- * Service : 비즈니스로직 / 의사결정코드
- */
-public class MemberService {
-
-}
