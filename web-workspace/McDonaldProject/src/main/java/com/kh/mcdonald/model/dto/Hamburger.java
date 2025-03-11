@@ -7,7 +7,7 @@ public class Hamburger {
 	private String brand;
 	
 	public Hamburger() {
-		super();
+		super(); 
 	}
 	public Hamburger(String name, int price, String brand) {
 		super();
