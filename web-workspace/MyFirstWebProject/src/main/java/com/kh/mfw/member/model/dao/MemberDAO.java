@@ -1,5 +1,21 @@
 package com.kh.mfw.member.model.dao;
 
-public class MemberDAO {
+import com.kh.mfw.member.model.dto.MemberDTO;
 
+public class MemberDAO {
+	
+	static {
+		
+		Class.forName("");
+		
+		
+	}
+	
+	public void login(MemberDTO member) {
+		
+	}
+	
+	
+	
+	
 }
