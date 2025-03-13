@@ -25,7 +25,16 @@ public class MemberService {
 		return loginMember;
 	}
 	
-	
+	public int signUp(MemberDTO member) {
+		
+		int result = new MemberDAO().checkId(member.getMemberId());
+		if(result > 0) {
+			return result;
+		}
+		
+		new MemberDAO().signUp(member);
+		return result;
+	}
 	
 	
 	

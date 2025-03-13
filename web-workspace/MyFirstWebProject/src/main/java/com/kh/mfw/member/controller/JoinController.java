@@ -16,7 +16,7 @@ public class JoinController extends HttpServlet {
     }
 
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
-		request.getRequestDispatcher("/WEB-INF/views/member/enroll_form.jsp")
+		request.getRequestDispatcher("/WEB-INF/views/member/enroll_form2.jsp")
 			   .forward(request, response);
 	}
 
