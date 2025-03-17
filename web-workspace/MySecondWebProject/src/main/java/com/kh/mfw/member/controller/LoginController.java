@@ -27,7 +27,7 @@ public class LoginController extends HttpServlet {
 		request.setCharacterEncoding("UTF-8");
 		
 		// 2) 요청값이 있나? 없나? => 있다면 값을 뽑아서 가공
-		// reqeust.getParameter("input 요소의 name 속성 값"); 
+		// request.getParameter("input 요소의 name 속성 값"); 
 		//							┕ 이게 100% 무조건 input 요소의 name 속성 값을 적는것은 아님
 		
 		// memberId / memberPw
@@ -73,16 +73,14 @@ public class LoginController extends HttpServlet {
 		String contextPath = request.getContextPath();
 		response.sendRedirect(contextPath);
 	}
+	
+	
+	
+	
 
 	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		doGet(request, response);
 	}
-
-	
-	
-	
-	
-	
 	
 	
 	
